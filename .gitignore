@@ -1,4 +1,6 @@
-@@ -0,0 +1,107 @@
+.DS_Store
+.env
+
 # Logs
 logs
 *.log
@@ -10,7 +12,7 @@ lerna-debug.log*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
-# Runtime
+# Runtime data
 pids
 *.pid
 *.seed
@@ -103,6 +105,3 @@ dist
 
 # TernJS port file
 .tern-port
-
-# DS_Store
-.DS_Store
